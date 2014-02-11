@@ -1,6 +1,7 @@
 #bb
 
-**bb** is a generator for [hi](https://github.com/k33g/hi)
+**bb** is a generator for [hi](https://github.com/k33g/hi).
+It helps you to create a Backbone front web application.
 
 ##hi bb
 
